@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--MS Latinoamericano Code: modificado por Alberto para incluir caracteres de codigo http://efektomagazine.com/ sobre el trabajo de Antonio: http://bajatedeesanube.blogspot.com a partir de: LatinSpanishBeta de Eduardo: http://www.edmz.org/-->
+<!--Última Actualización: Brede Basualdo Serraion (@BredeBS / @BredeCL) en 2013. Basado en el trabajo de MS Latinoamericano Code: modificado por Alberto para incluir caracteres de codigo http://efektomagazine.com/ sobre el trabajo de Antonio: http://bajatedeesanube.blogspot.com a partir de: LatinSpanishBeta de Eduardo: http://www.edmz.org/-->
 <!--Last edited by Ukelele version 2.2.4 on 2013-02-28 at 23:46 (GMT-04:00)-->
 <keyboard group="0" id="5000" name="Chile Latinoamericano" maxout="1">
     <layouts>
