@@ -1,6 +1,5 @@
 # Layout de Teclado en Español (Chile) Latinoamérica para macOS
 
-## Acerca de 
 Este es un respaldo de una entrada antigua de mi [blog](https://web.archive.org/web/20220117063011/https://brede.cl/2013/02/28/layout-teclado-espanol-chile-latinoamerica-para-os-x/)
 
 Hace unos 15 años tuve un notebook Dell que pedó con el [teclado Español](https://www.goodtyping.com/teclatLAT.htm), con el cual me era bastante fácil escribir código ya que no debía presionar combinaciones raras de teclas para obtener caractéres de uso común como los `{ } [ ] ? < >` que uso constantemente cuando programo en PHP.
